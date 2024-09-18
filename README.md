@@ -1,2 +1,4 @@
 # automatoempilha
-Exercício referente a parte da segunda Verificação de Aprendizagem (VA) da disciplina de Teoria da Computação
+Exercício a ser apreciada pela Profa. da disciplina de Teoria da Computação, Maria Aparecida, referente a pontuação extra em uma das Verificação de Aprendizagem (VA) da disciplina.
+
+A atividade consiste em criar em linguagem escolhida implementar um autômato com pilha. {a^n b^n | n >= 0}
